@@ -1,0 +1,1 @@
+print("this is for subration of data")
